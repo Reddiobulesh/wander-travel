@@ -4,15 +4,11 @@ A modern, design-led travel web application built with React and Vite. WANDER he
 
 ## 🚀 Live Demo
 
-👉 [Open WANDER Live](YOUR_DEPLOYED_URL)
-
-*(Replace `YOUR_DEPLOYED_URL` with your Vercel deployment link after deployment)*
+👉 [Open WANDER Live](https://wander-travel-1p0xtpa6l-reddiobulesh.vercel.app/)
 
 ## 💻 GitHub Repository
 
-👉 [View Source Code](YOUR_GITHUB_REPOSITORY_URL)
-
-*(Replace `YOUR_GITHUB_REPOSITORY_URL` with your GitHub repository link)*
+👉 [View Source Code](https://github.com/Reddiobulesh/wander-travel)
 
 ---
 
@@ -85,7 +81,7 @@ Provides dynamic, high-resolution photography for world destinations and famous 
 
 ### 1. Clone the Repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Reddiobulesh/wander-travel.git
 ```
 
 ### 2. Open the Project
